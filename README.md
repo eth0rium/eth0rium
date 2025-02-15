@@ -1,2 +1,3 @@
 self-taught reverse engineer and software developer. <br>
-warq00 on discord.
+
+<img src="https://i.imgur.com/r9fUjLt.png">
